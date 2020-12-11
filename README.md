@@ -1,22 +1,21 @@
-# nuxt-course
+# Nuxt Blog
+[![GitHub Release](https://img.shields.io/github/release/zjayers/nuxt.blog.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/nuxt.blog.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/nuxt.blog.svg?maxAge=25000)](https://github.com/zjayers/nuxt.blog/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/nuxt.blog/blob/master/LICENSEs)
 
-> Nuxt.js course for Udemy
+## Description
 
-## Build Setup
+> Work in progress
 
-``` bash
-# install dependencies
-$ yarn install
+## Features
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
+> Work in progress
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
+## Installation
 
-# generate static project
-$ yarn run generate
-```
+> Work in progress
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Usage
+
+> Work in progress
